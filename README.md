@@ -1,7 +1,7 @@
 # SNAKE GAME
 
 
-Python Command Line Game 
+Python TKinter Snake Game 
 
 This Python Tkinter Snake Game is a recreation of the classic arcade-style game implemented using the Tkinter library. It provides a simple yet engaging gameplay experience for users of all skill levels. Players control a snake to eat food and grow longer while avoiding collisions with walls and the snake's own body.
 
