@@ -1,4 +1,4 @@
-SNAKE GAME
+#SNAKE GAME
 
 
 Python Command Line Game 
